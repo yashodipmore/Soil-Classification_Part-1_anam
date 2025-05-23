@@ -1,6 +1,6 @@
 # 🌱 Soil Image Classification Challenge - IIT Ropar (Annam.ai)
 
-## 📌 Project Overview
+##  Project Overview
 This project solves the **Soil Image Classification Challenge** by accurately classifying soil images into four categories:
 - Alluvial Soil
 - Black Soil
@@ -11,14 +11,14 @@ Our final model achieves a **perfect F1-score of 1.0 across all classes**, meeti
 
 ---
 
-## 👨‍💻 Team Members
+## Team Members
 - **Yashodip More** – Electrical Engineering, RCPIT, Maharashtra – yashodipmore2004@gmail.com  
 - **S.M. Sakthivel** – AI & Data Science, Achariya College, Puducherry – s.m.sakthivelofficial@gmail.com  
 - **Komal Kumavat** – Electrical Engineering, RCPIT, Maharashtra – komalkumavat025@gmail.com
 
 ---
 
-## 🧠 Project Logic & Architecture
+## Project Logic & Architecture
 
 ### 1. **Preprocessing**
 - Standardized all input images to **224×224 pixels**.
@@ -47,7 +47,7 @@ Our final model achieves a **perfect F1-score of 1.0 across all classes**, meeti
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Environment Requirements
 Create a virtual environment and install dependencies:
